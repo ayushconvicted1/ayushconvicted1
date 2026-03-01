@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ayush Pandey 👋
 
-<!--
-**ayushconvicted1/ayushconvicted1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | React Native Specialist | AI & Cloud Integrations
 
-Here are some ideas to get you started:
+🚀 I build production-ready mobile & web applications with real-world deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Portfolio
+👉 [Visit My Portfolio](https://ayushpfullstack.vercel.app)
+
+## 📱 Live Apps
+- [Engage HRMS – Play Store](https://play.google.com/store/apps/details?id=com.hrengage)
+- [Engage HRMS – App Store](https://apps.apple.com/us/app/engage-hrms/id6557050244)
+
+## 🧠 AI & ML Work
+- [HuggingFace Projects](https://huggingface.co/ayushpfullstack)
+
+## 🌐 Web Projects
+- https://animatememories.com
+- https://www.sassyshringaar.com
+
+---
+Let's build something impactful.
